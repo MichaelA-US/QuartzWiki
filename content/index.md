@@ -2,4 +2,6 @@
 title: Welcome to my notes
 ---
 
-Hi
+Hi! Welcome to my notes and reports :)
+~Michael Ades
+

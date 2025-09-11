@@ -1,0 +1,1 @@
+Observing code or system without running nor execution.

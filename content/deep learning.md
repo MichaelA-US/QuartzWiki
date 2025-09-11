@@ -1,0 +1,2 @@
+"Deep learning is a subset of [machine learning](https://www.ibm.com/think/topics/machine-learning?) that uses multilayered [neural networks](https://www.ibm.com/think/topics/neural-networks?), called deep neural networks, to simulate the complex decision-making power of the human brain. Some form of deep learning powers most of the [artificial intelligence (AI)](https://www.ibm.com/think/topics/artificial-intelligence?) applications in our lives today."
+https://www.ibm.com/think/topics/deep-learning

@@ -1,0 +1,1 @@
+Observing code or the system while it is running or executing.
