@@ -1,3 +1,21 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Home hero tweaks
+.home-hero h1 { font-size: clamp(1.8rem, 2.5vw + 1rem, 3rem); margin-bottom: .25rem; }
+.home-hero p { opacity: .8; }
+
+// Turn folder/tag lists into a responsive card grid
+.page-listing .section-ul {
+  list-style: none; padding: 0;
+  display: grid; gap: 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+}
+.page-listing .section-li { margin: 0; }
+.page-listing .section {
+  border: 1px solid var(--gray); border-radius: 14px; padding: 1rem;
+  transition: transform .12s ease, box-shadow .12s ease;
+}
+.page-listing .section:hover { transform: translateY(-2px); box-shadow: 0 4px 20px rgba(0,0,0,.05); }
+.page-listing .section .meta { font-size: .8rem; opacity: .7; }
+.page-listing .section .tags { display:flex; gap:.5rem; flex-wrap:wrap; margin-top:.5rem; }
+.page-listing .section .tag-link { font-size:.75rem; padding:.15rem .5rem; border:1px solid var(--lightgray); border-radius:999px; }

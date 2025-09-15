@@ -51,3 +51,6 @@ export {
   Flex,
   ConditionalRender,
 }
+
+export { default as SimpleNav } from "./SimpleNav"
+
