@@ -5,6 +5,10 @@ cssclasses: ["home-hero"]
 ---
 
 # Howdy :)
+I'm a Texas A&M Computer Science senior.
+
+![[Me.png|300]]
+
 I enjoy breaking things.
 
 [View Projects](/projects/) · [Blog](/blog/) · [About](/about/) · [Resume](/uploads/resume.pdf)

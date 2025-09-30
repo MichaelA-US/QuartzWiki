@@ -1,6 +1,6 @@
 # Mike’s Quartz Notes
 
-Short, durable write-ups on security, systems, and projects.
+Personal website!
 
 ## Quick Links
 - **Site:** https://mikwiki.netlify.com
