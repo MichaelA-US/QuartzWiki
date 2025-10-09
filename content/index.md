@@ -20,6 +20,6 @@ CSCE 439 Report(s) Glossary:
 - [[4. Report 4]]
 
 CSCE 477 Homework(s) Glossary:
-[[1. Homework 1A - Wifi Password Cracking]]
+- [[1. Homework 1A - Wifi Password Cracking]]
 
 
