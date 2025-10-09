@@ -1,3 +1,6 @@
+---
+title: About Me :)
+---
 Hi! This is a little list of what I'm currently working on / goals.
 
 # Cybersecurity
